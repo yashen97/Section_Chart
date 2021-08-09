@@ -13,7 +13,8 @@ class HomePage extends StatelessWidget {
     ChartModel(year: "2017", value: 70000, barColor:charts.ColorUtil.fromDartColor(Colors.blue)),
     ChartModel(year: "2018", value: 100000, barColor:charts.ColorUtil.fromDartColor(Colors.blue)),
     ChartModel(year: "2019", value: 150000, barColor:charts.ColorUtil.fromDartColor(Colors.amber)),
-    ChartModel(year: "2020", value: 100000, barColor:charts.ColorUtil.fromDartColor(Colors.blue))
+    ChartModel(year: "2020", value: 100000, barColor:charts.ColorUtil.fromDartColor(Colors.blue)),
+    ChartModel(year: "2021", value: 40500, barColor:charts.ColorUtil.fromDartColor(Colors.red))
   ];
 
 
